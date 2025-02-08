@@ -1,16 +1,25 @@
-# myapp
+# AI Chatbot App 🤖  
 
-A new Flutter project.
+An intuitive and intelligent AI chatbot application built with Flutter. This app leverages state-of-the-art natural language processing to provide human-like conversations and enhance user interactions.  
 
-## Getting Started
+## Features 🌟  
 
-This project is a starting point for a Flutter application.
+- Real-time Conversations**: Engage in seamless and responsive chats.  
+- Context Awareness**: Understands and remembers the context for more meaningful interactions.  
+- Customizable: Tailor the bot's personality, appearance, and responses.  
+- Multi-language Support: Communicate in multiple languages for global accessibility.  
+- User-friendly UI: Sleek, modern, and easy-to-use design.  
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used 🛠️  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Frontend: Flutter 
+- AI Model: OpenAI GPT
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots 📸  
+
+![Screen Shot 2025-02-08 at 12 36 11 PM](https://github.com/user-attachments/assets/50371056-9bff-4f8f-96ca-e37c2db7919d)
+
+-When there is an Error 
+![Screen Shot 2025-02-08 at 12 36 37 PM](https://github.com/user-attachments/assets/66413b87-d4f6-4602-8b94-610efaec02a9)
+
+
